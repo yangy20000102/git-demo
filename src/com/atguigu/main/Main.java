@@ -14,5 +14,6 @@ public class Main {
         System.out.println("master update");
         System.out.println("hot-fix update 2");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
