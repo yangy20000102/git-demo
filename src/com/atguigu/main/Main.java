@@ -12,5 +12,6 @@ public class Main {
         System.out.println("main3");
         System.out.println("hot-fix update");
         System.out.println("master update");
+        System.out.println("hot-fix update 2");
     }
 }
